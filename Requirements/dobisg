@@ -1,5 +1,3 @@
-Frogger
-
 1. The game must have movement, forward, backward, left, and right. Movement is in a one grid motion.
 2. The game must have a road way obstacle with moving vehicles for the player to dodge.
 3. The game must have a river in which the player must jump on moving obstacles to dodge the water.
